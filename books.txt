@@ -1,0 +1,4 @@
+1|The Alchemist|Paulo Coelho|1
+2|Atomic Habits|James Clear|1
+3|Clean Code|Robert C. Martin|1
+4|Introduction to Algorithms|Thomas Cormen|1
